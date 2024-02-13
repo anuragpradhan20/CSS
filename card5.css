@@ -17,13 +17,13 @@ body{
   width:15%;
 }
 h2{
-    font-size: 35px;
+    font-size: 24px;
     margin-top: 0px;
     margin-bottom: 0px;
     color: rgb(32, 30, 30);
 }
 p{
-   margin-top: 5px;
+   margin-top: 8px;
    color:gray;
    font-size: 15px;
 }
@@ -54,9 +54,9 @@ select{
     width:100%;
     border:1px solid rgb(202, 189, 189);
     padding: 10px;
-    border-radius: 5px;
+    border-radius: 8px;
     box-sizing: border-box;
-    font-size: 15px;
+    font-size: 14px;
     color: rgb(70, 64, 64);
     font-weight: 600;
     margin-bottom: 12px;
@@ -68,12 +68,12 @@ select:focus{
 .btn-dark{
     width:100%;
     border:none;
-    padding: 9px;
-    font-size: 13px;
+    padding: 10px;
+    font-size: 14px;
     text-align: center;
     color: white;
     background-color: rgb(122, 64, 177);
-    border-radius: 5px;
+    border-radius: 8px;
     font-weight: normal;
     margin-bottom: 12px;
     margin-top: 8px;
