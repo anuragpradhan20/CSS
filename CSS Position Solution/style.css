@@ -6,8 +6,25 @@ body{
 
 }
 .box{
-    width: 400px;
-    height: 300px;
+    width: 300px;
+    padding:30px;
     margin:100px auto;
-    
+    border:1px solid grey;
+    border-radius: 10px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    font-weight: 500;
+    border-radius: 6px;
+    font-size: medium;
+    border: 1px solid grey;
+    padding: 4px 10px;
+    display: inline-block;
+    width:200px;
+    margin: 10px;
+    color: black;
+}
+a:hover{
+    background-color: lightgray;
 }
