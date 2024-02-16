@@ -12,7 +12,7 @@ body{
 .taj-image{
     width:100%;
     border-radius: 10px;
-    opacity: 0.8;
+    opacity: 0.;
 }
 a{
     text-decoration: none;
@@ -22,10 +22,10 @@ a{
     border-radius: 10px;
 }
 h2{
-    color: whitesmoke;
+    color: black;
 }
 .description{
     position: absolute;
-    bottom: 200px;
+    bottom: 150px;
     left:15px;
 }
