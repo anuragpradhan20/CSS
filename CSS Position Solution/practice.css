@@ -21,8 +21,11 @@ a{
     padding: 12px;
     border-radius: 10px;
 }
+h2{
+    color: whitesmoke;
+}
 .description{
     position: absolute;
-    bottom: 100px;
-    left:10px;
+    bottom: 200px;
+    left:15px;
 }
